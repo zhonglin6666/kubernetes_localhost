@@ -1,0 +1,2 @@
+# kubernetes_localhost
+在本地使用docker运行所有kubernetes组件
